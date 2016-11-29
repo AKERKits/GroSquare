@@ -1,5 +1,5 @@
-﻿"tool_diameter"=6
-"material_thickness"=18
+﻿"tool_diameter"=10
+"material_thickness"=20
 "clearance_tight"=0.1
 "clearance_loose"=0.5
 

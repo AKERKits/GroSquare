@@ -1,3 +1,5 @@
+Design turned parametric by Gregoire Durrens for Aker.
+
 grosquare_6_12.dxf was generated with these parameters :
 
 
@@ -42,3 +44,4 @@ grosquare_8_12.dxf was generated with these parameters :
 "tab_height" = 3
 
 -------------------------------------------------------------
+
